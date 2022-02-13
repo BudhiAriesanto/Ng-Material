@@ -44,7 +44,7 @@
     "@typescript-eslint/typescript-estree": "^2.3.2",
     "acorn": "^6.0.0",
     "acorn-dynamic-import": "^4.0.0",
-    "ajv": "^6.0.0",
+    "ajv": "^6.12.3",
     "ajv-keywords": "^3.2.0",
     "babel-loader": "^8.0.6",
     "babel-plugin-angularjs-annotate": "^0.10.0",
